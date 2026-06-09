@@ -2,7 +2,11 @@
  * NexaEdge — NEXA Token Balance Checker
  * Reads real SPL token supply and holder balances on Solana mainnet.
  *
- * Contract: D7h9MvFDkVxPYeJwSTcE7VkKXo6mygCHYph36P8oeic2
+ * Contract : D7h9MvFDkVxPYeJwSTcE7VkKXo6mygCHYph36P8oeic2
+ * Name     : Nexa Edge (NEXA)
+ * Decimals : 9
+ * Supply   : 100,000,000
+ * Minted   : 2026-05-17
  *
  * Usage:
  *   npm install @solana/web3.js @solana/spl-token
