@@ -1,13 +1,19 @@
-# nexaedge-token-tools# NexaEdge Token Tools
+# NexaEdge Token Tools
 
 On-chain utilities for the **NEXA** SPL token on Solana mainnet.
 
-|Field       |Value                                         |
-|------------|----------------------------------------------|
-|Mint Address|`D7h9MvFDkVxPYeJwSTcE7VkKXo6mygCHYph36P8oeic2`|
-|Network     |Solana Mainnet-Beta                           |
-|Total Supply|100,000,000 NEXA                              |
-|Status      |Minted — not yet in public circulation        |
+|Field           |Value                                         |
+|----------------|----------------------------------------------|
+|Token Name      |Nexa Edge (NEXA)                              |
+|Mint Address    |`D7h9MvFDkVxPYeJwSTcE7VkKXo6mygCHYph36P8oeic2`|
+|Network         |Solana Mainnet-Beta                           |
+|Current Supply  |100,000,000 NEXA                              |
+|Decimals        |9                                             |
+|Holders         |2                                             |
+|First Mint      |11:00:48 May 17, 2026 (UTC)                   |
+|Owner Program   |Token Program                                 |
+|Token Extensions|False                                         |
+|Status          |Minted — not yet in public circulation        |
 
 🔍 [View on Solscan](https://solscan.io/token/D7h9MvFDkVxPYeJwSTcE7VkKXo6mygCHYph36P8oeic2)
 
@@ -30,10 +36,11 @@ Sample output:
 ```
 ── NEXA Token Info ──────────────────────────────
   Mint Address : D7h9MvFDkVxPYeJwSTcE7VkKXo6mygCHYph36P8oeic2
-  Decimals     : 6
+  Decimals     : 9
   Total Supply : 100,000,000 NEXA
-  Mint Auth    : null (frozen)
-  Freeze Auth  : null
+  Holders      : 2
+  First Mint   : 2026-05-17T11:00:48Z
+  Mint Auth    : GjvqAA...ZLAb33
 ─────────────────────────────────────────────────
 ```
 
