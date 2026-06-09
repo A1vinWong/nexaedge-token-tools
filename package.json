@@ -1,1 +1,15 @@
+{
+  "name": "nexaedge-token-tools",
+  "version": "1.0.0",
+  "description": "On-chain tools for the NEXA SPL token on Solana mainnet",
+  "main": "check_nexa_balance.js",
+  "scripts": {
+    "check": "node check_nexa_balance.js",
+    "check:wallet": "node check_nexa_balance.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "@solana/spl-token": "^0.4.9"
+  }
+}
 
